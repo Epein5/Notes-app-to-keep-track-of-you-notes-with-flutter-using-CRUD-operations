@@ -1,16 +1,19 @@
-# flutter_application_1
+# sqflife
 
-A new Flutter project.
+# flutter
 
-## Getting Started
+# local databse
 
-This project is a starting point for a Flutter application.
+Flutter applicaiton using CRUD functions of Sql database to create a local data base inside your mobile device so the appication will store and display data permanently even when there is no internet connection 
 
-A few resources to get you started if this is your first Flutter project:
+This application consist of a Notes app where you can keep trakes of your notes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Below is the short glimpse of how it works.
+For more detail about the code download the github repo.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+https://github.com/Epein5/Notes-app-to-keep-track-of-you-notes-with-flutter-using-CRUD-operations/assets/110723354/06ca8bd4-7928-452a-8769-63b577d760b7
+
